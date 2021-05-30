@@ -1,0 +1,15 @@
+{
+  "name": "tiktok-signature",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "tailt9",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.0",
+    "firebase-admin": "^9.8.0",
+    "path": "^0.12.7",
+    "playwright-chromium": "^1.10.0"
+  }
+}
